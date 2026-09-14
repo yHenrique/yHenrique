@@ -1,4 +1,4 @@
-# Olá! 👋 Eu sou Henrique
+# Olá! 👋 Meu nome é Henrique Yonamine
 
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas**
 💻 **Desenvolvedor em formação**
@@ -6,7 +6,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, atualmente construindo minha experiência na área de tecnologia por meio de estudos, projetos pessoais e desafios práticos.
+Atualmente estou construindo minha experiência na área de tecnologia por meio de estudos, projetos pessoais e desafios práticos.
 
 Tenho interesse em **desenvolvimento de software**, criação de aplicações, resolução de problemas e aprendizado contínuo. Utilizo este GitHub para compartilhar meus projetos, experimentos e minha evolução como desenvolvedor.
 
@@ -21,8 +21,6 @@ Ao longo da minha formação, venho estudando e desenvolvendo conhecimentos em d
 * 🗄️ Banco de dados
 * 🔧 Git & GitHub
 * 🧩 Lógica de programação
-* 📱 Desenvolvimento de aplicações
-* 🔌 APIs e integração de sistemas
 
 > Minha principal meta é continuar evoluindo e construir uma base sólida para atuar profissionalmente na área de desenvolvimento de software.
 
